@@ -1,10 +1,3 @@
-# MDResNet-HDWM
-Source code for high-definition image watermarking based on deep learning
-enviroment
-python 2.7
-tensorflow-gpu==1.13.1
-
-
 This is the demo code for the paper 
 "Robust location-secured high-definition image watermarking based on key-point detection and deep learning"
 
