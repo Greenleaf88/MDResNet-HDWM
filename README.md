@@ -2,7 +2,9 @@ Entry  is in the main file:
 SingleSizeModel.py
 
 Requirements
+
 python==2.7
+
 tensorflow-gpu>=1.13
 
 This is the demo code for the paper 
